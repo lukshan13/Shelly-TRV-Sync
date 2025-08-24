@@ -121,7 +121,6 @@ Planned improvements include:
 - [ ] Support for syncing more than two TRVs
 - [ ] Cross-gateway synchronization via HTTP or MQTT
 - [ ] Periodic reconciliation checks
-- [ ] Web interface for configuration
 - [ ] Support for temperature offset adjustments
 
 ## Contributing
