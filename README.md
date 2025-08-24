@@ -54,6 +54,7 @@ First, you need to find the IDs of your TRV devices. You can do this by:
 ### Step 3: Add the Script to Your Gateway
 
 1. Navigate to the Scripts section in your Shelly BLU Gateway
+
 ![Menu Selection](Images/README/Menu-Selection.png)
 *Figure 3: Navigating the script menu options*
 
