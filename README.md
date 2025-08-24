@@ -43,12 +43,12 @@ Before using this script, ensure you have:
 
 First, you need to find the IDs of your TRV devices. You can do this by:
 
-1. Opening the Shelly app and checking the device information
-2. Opening the Shelly BLU Gateway 
+1. (Recommended) Opening the Shelly BLU Gateway HTTP Web UI. You can do this by connecting to the IP address of the gateway.
+2. Opening the Shelly Mobile app and checking the device information
 3. Checking the device logs for BLE communication
 
 ![How to find TRV IDs](Images/README/How-to-find-id's.png)
-*Figure 1: Locating your TRV device IDs in the Shelly app*
+*Figure 1: Locating your TRV device IDs in the Shelly Gateway HTTP Web UI*
 
 
 ### Step 3: Add the Script to Your Gateway
